@@ -2,10 +2,12 @@
 body{
   backround-Color: #e0ffff;
 }
+div{
+   text-align: cener;
+   background: #808080;
 h1{
   font-size: 2.00em;
   color: #4169e1;
-  text-align: cener;
 }
 h2{
   font-size: 1.25em;
