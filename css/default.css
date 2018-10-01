@@ -9,6 +9,8 @@ div{
 h1{
   font-size: 2.00em;
   color: #008000;
+  text-decoration: underline;
+  font-weight: bold;
 }
 h2{
   font-size: 1.25em;
@@ -21,6 +23,9 @@ h2{
 h3{
   font-size: 1.00em;
   color: #008080;
+}
+p{
+  line-height: 1.75em;
 }
 li{
   font-size: 0.8em;
