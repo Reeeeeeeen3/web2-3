@@ -4,6 +4,7 @@ body{
   background-image: url(../ima/DSC_0433.jpg);
   background-repeat: no-repeat;
   background-position: right 20px top 20px;
+  width: 400px; height:600px;
 }
 #koko{
    text-decoration: underline;
