@@ -3,18 +3,21 @@ body{
   background-color: #e0ffff;
 }
 #koko{
-   text-align: center;
+   text-decoration: underline;
 }
 h1{
   font-size: 2.00em;
   color: #008000;
-  text-decoration: underline;
   font-weight: bold;
+  background-image: url(https://raw.githubusercontent.com/Reeeeeeeen3/web2-3/master/ima/DSC_0433.jpg);
+  background-repeat: no-repeat;
+  background-position: left;
 }
 h2{
   font-size: 1.25em;
   color: #ffa500;
   font-weight: bold;
+  text-align: center;
   border: #c894a8 6px solid;
   margin-botom: 0;
   padding: 6px 10px;
@@ -31,9 +34,6 @@ li{
   font-size: 0.8em;
   color: #333333;
   padding 100px 30xp;
-  background-image: url(https://raw.githubusercontent.com/Reeeeeeeen3/web2-3/master/ima/DSC_0433.jpg);
-  background-repeat: no-repeat;
-  background-position: left;
 }
 a:hover{
   color: #ffff00;
